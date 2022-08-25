@@ -1,0 +1,9 @@
+
+    var miUsuario = "miUsuario";
+    var miClave = "miClave";
+    
+    if(usuario == miUsuario && clave === miClave){
+        console.log("Â¡IngresÃ³ correctamente!"); 
+    } else{
+        console.error("Datos incorrectos, volvÃ© a intentar")
+    }
